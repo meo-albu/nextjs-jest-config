@@ -47,7 +47,7 @@ import "@testing-library/jest-dom"
 
 ```md
 
-"test": " jest"
+"test": "jest"
 
 ```
 
